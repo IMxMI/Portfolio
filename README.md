@@ -5,8 +5,8 @@ ___
 
 ### 1. Mettre en oeuvre les technologies web pour créer et héberger mon portfolio
 
-[![N|](https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Apache_NetBeans_Logo.svg/444px-Apache_NetBeans_Logo.svg.png)](https://fr.wikipedia.org/wiki/Fichier:Apache_NetBeans_Logo.svg)
- [![N|](https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png?20170517184425)](https://commons.wikimedia.org/wiki/File:HTML5_logo_and_wordmark.svg)
+| [![Apache NetBeans Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Apache_NetBeans_Logo.svg/64px-Apache_NetBeans_Logo.svg.png)](https://commons.wikimedia.org/wiki/File:Apache_NetBeans_Logo.svg "Apache NetBeans [Apache License 2.0 (http://www.apache.org/licenses/LICENSE-2.0)], via Wikimedia Commons") | [![HTML5 logo and wordmark](https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/64px-HTML5_logo_and_wordmark.svg.png)](https://commons.wikimedia.org/wiki/File:HTML5_logo_and_wordmark.svg "W3C [CC BY 3.0 (https://creativecommons.org/licenses/by/3.0)], via Wikimedia Commons") | [![CSS3 logo and wordmark](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/46px-CSS3_logo_and_wordmark.svg.png)](https://commons.wikimedia.org/wiki/File:CSS3_logo_and_wordmark.svg "Rudloff [CC BY 3.0 (https://creativecommons.org/licenses/by/3.0)], via Wikimedia Commons") | [![Bootstrap logo](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/64px-Bootstrap_logo.svg.png)](https://commons.wikimedia.org/wiki/File:Boostrap_logo.svg "Bootstrap [Public domain], via Wikimedia Commons") | [![Git-logo](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/128px-Git-logo.svg.png)](https://commons.wikimedia.org/wiki/File:Git-logo.svg "Jason Long [CC BY 3.0 (https://creativecommons.org/licenses/by/3.0)], via Wikimedia Commons") | [![Octicons-mark-github](https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/64px-Octicons-mark-github.svg.png)](https://commons.wikimedia.org/wiki/File:Octicons-mark-github.svg "GitHub [MIT (http://opensource.org/licenses/mit-license.php)], via Wikimedia Commons") |
+| ----- | ----- | ----- | ----- | ----- | ----- |
 
 - NetBeans : Environnement de développpement intégré (IDE)
 - HTML : Language de description utilisé pour concevoir les pages web
@@ -29,3 +29,13 @@ ___
 - Je présente la façon dont j'organise ma veille de la faàon dont je m'en sert
 
 3. Pour l'épreuve E5
+
+- J'héberge les documents présentant le contexte des mes PPE
+- J'héberge le code source de mes PPE
+- J'héberge mes productions (compte-rendus, documentations techniques, documentation utilisateurs, ...)
+- J'ajoute des liens vers les applications téléchargeables ou testables en ligne
+
+4. Pour mon identité numérique
+
+- Cela fait un point d'entrée professionnel à donner lorsque je postule à un stage, à une poursuite d'études ou à un emploi
+- Cela permettra de me faire référencer par les moteurs de recherches (là aussi si on me recherche suite à ma rencontre ou à la reception de mon CV)
