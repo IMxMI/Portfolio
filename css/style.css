@@ -17,20 +17,3 @@ Click nbfs://nbhost/SystemFileSystem/Templates/ClientSide/css.css to edit this t
     padding-left: 1em;
     padding-bottom: 1em;
 }
-.jumbotron h1 {
-    padding-left: 0.5em;
-}
-
-.jumbotron .btn-primary {
-    margin-top: 1em;
-    width: 9em;
-    height: 2.6em;
-}
-
-.jumbotron{
-    margin-bottom: 2em;
-}
-
-.jumbotron>*{
-   margin-left: 22em;
-}
