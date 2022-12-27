@@ -13,10 +13,9 @@ Click nbfs://nbhost/SystemFileSystem/Templates/ClientSide/css.css to edit this t
 }
 
 .jumbotron img {
+    min-width: 5%;
     float: left;
     width: 7%; /* pour une image à moitié de sa taille originale */
     padding-left: 1em;
     padding-bottom: 1em;
 }
-
-
