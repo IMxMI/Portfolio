@@ -4,3 +4,21 @@
  .bd-placeholder-img-lg { font-size: 3.5rem; }
 }
 .jumbotron { margin-bottom: 0rem!important; }
+
+body {
+    background-color: #131316!important;
+    color: #f8f9fa!important;
+    
+}
+
+.jumbotron {
+    background-color: #1d1d21!important;
+}
+
+#muted{
+    color: #8f96a3!important;
+}
+
+.album.py-5.bg-dark{
+    color: #131316;
+}
