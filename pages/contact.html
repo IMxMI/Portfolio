@@ -8,12 +8,14 @@
         <meta name="author" content="Vernoux Maxime">
         <link rel="icon" href="../favicon.ico">
         <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
-        <link href="css\style.css" rel="stylesheet">
-        <!--<link href="..\css\cv.css" rel="stylesheet"> -->
-        <link href="../css/realisations.css" rel="stylesheet">
+        <link href="../css\contact.css" rel="stylesheet">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css" integrity="sha512-+4zCK9k+qNFUR5X+cKL9EIR+ZOhtIloNl9GIKS57V1MyNsYpYcUrUeQc9vNfzsWfV28IaLL3i96P9sdNyeRssA==" crossorigin="anonymous" />
 
         <!-- Bootstrap CSS -->
         <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/css/bootstrap.min.css" integrity="sha384-xOolHFLEh07PJGoPkLv1IbcEPTNtaed2xpHsD9ESMhqIYd0nLMwNLD69Npy4HI+N" crossorigin="anonymous">
+        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous">
+        <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js" integrity="sha384-OgVRvuATP1z7JjHLkuOU7Xw704+h835Lr+6QL9UvYjZE3Ipu6Tp75j7Bh/kR0JKI" crossorigin="anonymous"></script>
+
 
         <title>Portfolio de Vernoux Maxime (BTS SIO 2022)</title>
     </head>
@@ -115,43 +117,27 @@
                 </div>
             </div>
         </nav>
-        <section class="jumbotron text-center">
-            <div class="container">
-                <h1 class="jumbotron-heading">Developpement du site Nolark (HTML/CSS)</h1>
-                <p class="lead text-muted" id="muted">Cette activité m'a permis d'apprendre les bases du dévelopement WEB et de découvrir le HTML et le CSS. Pour cette activité, nous avons créer un site de E-commerce vendant des casques de motos avec plusieurs catégories de casque, une page d'acceuil et une page de contact avec une carte et un formulaire de contact.
+        <div class="jumbotron">
+            <div class="contenaire">
+                <h1>Me contacter :</h1>   
+
             </div>
-        </section>
-        <div class="album py-5 bg-dark">
-            <div class="container">
-                <div class="row">
-                    <div class="col-md-4">
-                        <div class="card mb-4 shadow-sm">
-                            <img class="card-img-top" src="../images/accueil-Nolark.png" alt="Page accueil du site Nolark">
-                            <div class="card-body">
-                                <p class="card-text">Page d'accueil</p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-md-4">
-                        <div class="card mb-4 shadow-sm">
-                            <img class="card-img-top" src="../images/Formulaire-Nolark.png"
-                                 alt="Structuration Nolark">
-                            <div class="card-body">
-                                <p class="card-text">Formulaire de contact</p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-md-4">
-                        <div class="card mb-4 shadow-sm">
-                            <img class="card-img-top" src="../images/Adaptation-Nolark.png" alt="Adapters">
-                            <div class="card-body">
-                                <p class="card-text">Adaptation du site pour mobile</p>
-                            </div>
-                        </div>
-                    </div>
+            <form>
+                <div class="form-group">
+                    <label for="name">Nom</label>
+                    <input type="text" class="form-control" id="name" placeholder="Entrez votre nom">
                 </div>
-            </div>
-        </div>
+                <div class="form-group">
+                    <label for="email">Email</label>
+                    <input type="email" class="form-control" id="email" placeholder="Entrez votre adresse email">
+                </div>
+                <div class="form-group">
+                    <label for="message">Message</label>
+                    <textarea class="form-control" id="message" rows="3" placeholder="Entrez votre message"></textarea>
+                </div>
+                <button type="submit" class="btn btn-primary">Envoyer</button>
+            </form>
+        </div> <!-- Emplacement pour le contenu principal de la page -->
         <footer>
             <div class="container">
                 <div class="row">
@@ -159,7 +145,7 @@
                         <h2>Lycée Bonaparte</h2>
                         <p>Je suis actuellement en train de poursuivre mes études en BTS SIO au lycée Bonaparte à Toulon. J'ai choisi ce lycée pour plusieurs raisons. Tout d'abord, le lycée Bonaparte a une très bonne réputation en matière de formation en informatique. De nombreux anciens élèves ont réussi à décrocher de bons emplois grâce à leur formation ici. De plus, les professeurs sont tous très qualifiés et sont toujours prêts à aider les étudiants qui en ont besoin.
 
-Ensuite, j'ai choisi ce lycée car il est situé à Toulon, une ville qui me plaît beaucoup. J'apprécie son climat agréable et ses nombreuses possibilités de loisirs. Le fait d'étudier dans un endroit que j'aime m'aide à me sentir en confiance et à me concentrer sur mes études. 
+                            Ensuite, j'ai choisi ce lycée car il est situé à Toulon, une ville qui me plaît beaucoup. J'apprécie son climat agréable et ses nombreuses possibilités de loisirs. Le fait d'étudier dans un endroit que j'aime m'aide à me sentir en confiance et à me concentrer sur mes études. 
                         </p>
                         <p><a class="btn btn-secondary" href="https://www.lyc-bonaparte.fr/" target="_blank"
                               role="button">En savoir plus »</a>
@@ -183,7 +169,9 @@ Ensuite, j'ai choisi ce lycée car il est situé à Toulon, une ville qui me pla
                     </div>
                 </div>
                 <hr>
-                <p class="text-center" id="copyright">© Maxime Vernoux 2023</p>
+                <p class="text-center" id="copyright">© Maxime Vernoux 2023 &nbsp; <a href="https://github.com/IMxMI" title="Github"><i class="fab fa-github"></i></a>
+                <a href="https://www.linkedin.com/in/maxime-vernoux-4639a0231" title="LinkedIn"><i class="fab fa-linkedin-in"></i></a></p>
+                
             </div>
         </footer>
         <!-- Optional JavaScript; choose one of the two! -->

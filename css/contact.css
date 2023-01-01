@@ -1,0 +1,28 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/ClientSide/css.css to edit this template
+*/
+/* 
+    Created on : 1 janv. 2023, 12:40:55
+    Author     : maxim
+*/
+
+form {
+    max-width: 1290px;
+    margin: 0 auto;
+    margin-bottom: 25px;
+}
+
+.d-felx.justify-content-around{
+    max-width: 1290px;
+}
+
+body {
+    background-color: #131316!important;
+    color: #f8f9fa!important;
+
+}
+
+.jumbotron {
+    background-color: #1d1d21!important;
+}
