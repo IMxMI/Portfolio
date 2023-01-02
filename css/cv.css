@@ -183,7 +183,7 @@ body {
 /******************************************
 * Expériences professionnelles
 ******************************************/
-.experience {
+/*.experience {
     display:flex;
     margin-bottom: 15px;
 }
@@ -204,7 +204,7 @@ body {
     font-size: 1.2em;
     line-height: 1.5em;
 }
-
+*/
 /******************************************
 * Me contacter
 ******************************************/
